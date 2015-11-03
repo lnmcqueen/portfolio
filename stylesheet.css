@@ -1,4 +1,4 @@
-body {font-family: Tahoma; font-size: 12px;}
+body {font-family: Tahoma; font-size: 12px; background-color: #CCBDB8;}
 h1 {font-family: Helvetica; font-size: 55px; color: #FFBA87; }
 h2 {font-family: Helvetica; color: #586099; font-size: 20px;}
 h4 {margin-left: 15px;}
@@ -6,5 +6,5 @@ h1 {border: 1px solid black; background-color: #586099;
 padding: 10px }
 ul {display: inline;}
 p {font-size: 12px;
-* {background-color: #CCBDB8;}
+
 .Online {font-size: 30px;}
