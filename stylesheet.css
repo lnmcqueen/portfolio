@@ -1,4 +1,4 @@
-body {font-family: Tahoma; font-size: 12px; background-color: #CCBDB8;}
+body {font-family: Tahoma; font-size: 100%; background-color: #CCBDB8;}
 h1 {font-family: Helvetica; font-size: 55px; color: #FFBA87; }
 h2 {font-family: Helvetica; color: #586099; font-size: 25px;}
 h4 {margin-left: 15px;}
@@ -11,4 +11,4 @@ h3 {font-family: Helvetica; font-size: 20px; color: black; }
 
 .Online {font-size: 35px;}
 .Contactme {font-size: 70px;}
-.Opening {font-size: 200%;}
+.Opening {font-family: Times, serif; font-size: 200%;}
